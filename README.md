@@ -1,6 +1,6 @@
 # Cancer Burden Analysis in Germany (2008-2019): Insights into Disability-Adjusted Life Years (DALYs)
 
-## Audience: Oncologists, public health researchers, policymakers, and cancer advocacy
+## Audience: Policymakers and cancer advocacy organizations
 organizations.
 
 ## Challenge: Cancer poses a significant health burden globally, with its impact measured
