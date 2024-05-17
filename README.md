@@ -26,10 +26,14 @@ Frontend: React.js, D3.js for interactive data visualizations
 Backend: Node.js
 
 # instruction on how to use
-To set up and run the application from the GitHub repository:
-Click on 'Code'.
-Select 'Codespaces'.
-Click 'Create codespace on main'.
-Wait a few minutes for the codespace to build.Run npm run dev.
-Click 'Open in a new browser'.
-Log in with the provided username and password.
+Usage Instructions:
+•	Access the GitHub repository. Select the option labeled 'Code'.
+•	Choose the option labeled 'Codespaces'.
+•	Click the button labeled 'Create codespace on main'.
+•	Please allow a little time for the codespace to compile.
+•	Execute the command "npm run dev".Click on the option 
+•	'Open in a new browser'
+•	 Authenticate with the specified username and password. 
+•	This configuration will grant users access to a comprehensive analysis tool for assessing cancer burden rates in Germany.
+
+
