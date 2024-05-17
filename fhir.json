@@ -1,0 +1,229 @@
+{
+    "resourceType": "Bundle",
+    "type": "collection",
+    "entry": [
+      {
+        "resource": {
+          "resourceType": "Observation",
+          "id": "observation-deu-2008-other-pharynx-cancer",
+          "status": "final",
+          "category": [
+            {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                  "code": "laboratory",
+                  "display": "Laboratory"
+                }
+              ]
+            }
+          ],
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "LA10325-7",
+                "display": "Other pharynx cancer incidence"
+              }
+            ]
+          },
+          "subject": {
+            "reference": "Location/deu"
+          },
+          "effectiveDateTime": "2008-01-01",
+          "valueQuantity": {
+            "value": 54.28,
+            "unit": "cases",
+            "system": "http://unitsofmeasure.org",
+            "code": "1"
+          }
+        }
+      },
+      {
+        "resource": {
+          "resourceType": "Observation",
+          "id": "observation-deu-2008-liver-cancer",
+          "status": "final",
+          "category": [
+            {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                  "code": "laboratory",
+                  "display": "Laboratory"
+                }
+              ]
+            }
+          ],
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "LA10326-5",
+                "display": "Liver cancer incidence"
+              }
+            ]
+          },
+          "subject": {
+            "reference": "Location/deu"
+          },
+          "effectiveDateTime": "2008-01-01",
+          "valueQuantity": {
+            "value": 90.58,
+            "unit": "cases",
+            "system": "http://unitsofmeasure.org",
+            "code": "1"
+          }
+        }
+      },
+      {
+        "resource": {
+          "resourceType": "Observation",
+          "id": "observation-deu-2008-breast-cancer",
+          "status": "final",
+          "category": [
+            {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                  "code": "laboratory",
+                  "display": "Laboratory"
+                }
+              ]
+            }
+          ],
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "LA10327-3",
+                "display": "Breast cancer incidence"
+              }
+            ]
+          },
+          "subject": {
+            "reference": "Location/deu"
+          },
+          "effectiveDateTime": "2008-01-01",
+          "valueQuantity": {
+            "value": 334.29,
+            "unit": "cases",
+            "system": "http://unitsofmeasure.org",
+            "code": "1"
+          }
+        }
+      },
+      {
+        "resource": {
+          "resourceType": "Observation",
+          "id": "observation-deu-2009-other-pharynx-cancer",
+          "status": "final",
+          "category": [
+            {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                  "code": "laboratory",
+                  "display": "Laboratory"
+                }
+              ]
+            }
+          ],
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "LA10325-7",
+                "display": "Other pharynx cancer incidence"
+              }
+            ]
+          },
+          "subject": {
+            "reference": "Location/deu"
+          },
+          "effectiveDateTime": "2009-01-01",
+          "valueQuantity": {
+            "value": 54.31,
+            "unit": "cases",
+            "system": "http://unitsofmeasure.org",
+            "code": "1"
+          }
+        }
+      },
+      {
+        "resource": {
+          "resourceType": "Observation",
+          "id": "observation-deu-2009-liver-cancer",
+          "status": "final",
+          "category": [
+            {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                  "code": "laboratory",
+                  "display": "Laboratory"
+                }
+              ]
+            }
+          ],
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "LA10326-5",
+                "display": "Liver cancer incidence"
+              }
+            ]
+          },
+          "subject": {
+            "reference": "Location/deu"
+          },
+          "effectiveDateTime": "2009-01-01",
+          "valueQuantity": {
+            "value": 91.47,
+            "unit": "cases",
+            "system": "http://unitsofmeasure.org",
+            "code": "1"
+          }
+        }
+      },
+      {
+        "resource": {
+          "resourceType": "Observation",
+          "id": "observation-deu-2009-breast-cancer",
+          "status": "final",
+          "category": [
+            {
+              "coding": [
+                {
+                  "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                  "code": "laboratory",
+                  "display": "Laboratory"
+                }
+              ]
+            }
+          ],
+          "code": {
+            "coding": [
+              {
+                "system": "http://loinc.org",
+                "code": "LA10327-3",
+                "display": "Breast cancer incidence"
+              }
+            ]
+          },
+          "subject": {
+            "reference": "Location/deu"
+          },
+          "effectiveDateTime": "2009-01-01",
+          "valueQuantity": {
+            "value": 331.63,
+            "unit": "cases",
+            "system": "http://unitsofmeasure.org",
+            "code": "1"
+          }
+        }
+      }
+    ]
+  }
+  
